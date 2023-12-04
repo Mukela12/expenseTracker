@@ -61,12 +61,12 @@ Timestamp (for tracking previous months)
 
 ## Explanation:
 
-### User ID: Identifies the user for whom the transaction is recorded.
+User ID: Identifies the user for whom the transaction is recorded.
 
-### Type: Specifies if it's an income or expense.
+Type: Specifies if it's an income or expense.
 
-### Description: Describes the nature of the transaction (e.g., Food, Monthly pay).
+Description: Describes the nature of the transaction (e.g., Food, Monthly pay).
 
-### Amount: Represents the monetary value of the transaction.
+Amount: Represents the monetary value of the transaction.
 
-### Timestamp: Records the date and time of the transaction for tracking previous months.
+Timestamp: Records the date and time of the transaction for tracking previous months.
